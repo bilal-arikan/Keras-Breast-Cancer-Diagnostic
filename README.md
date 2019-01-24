@@ -1,17 +1,14 @@
-# Keras-Meme-Kanseri-Tanisi
-Breast Cancer Diagnostic with Keras
+# Keras-Breast-Cancer-Diagnostic
+Detecting Breast Cancer with Keras
 
 https://www.youtube.com/watch?v=La7YrFsK7wk
 
-Videolu eğitimini izlerken yazdığım kod
-
+I wrote while watching this video tutorial.
 
 http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29
 
-Sitesinden Veriye ulaşabilirsiniz
+you can access the data from this web site.
 
 
-
-! Dense layerlarindaki değerleri oynayarak farklı sonuçlar alabilirsiniz
-
-! Size, Weight... gibi değerlerden Class değerini tahmin ediyoruz, bunu diğer değerler içinde yapabilirsiniz, 
+! You can get different results by changing the values in the Dense layers
+! We estimate Class value from other values like Weight,Size ..., You can do it for other values. 
